@@ -1,8 +1,9 @@
-### Hi there 👋
-### :coffee::mate:
-
+Hi there 👋
+#
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafaelo&theme=dark&show_icons=true&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafaelo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **prafaelo/prafaelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:coffee: :mate:
