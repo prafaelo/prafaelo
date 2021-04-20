@@ -8,16 +8,21 @@ Hi there 👋 ...
  <img width="100px" src="https://user-images.githubusercontent.com/1916331/113941072-566f3180-97b3-11eb-8450-d156bc464ba7.png" align="center" alt="GitHub Stats:" />
  <h1 align="center"># GitHub Stats</h1>
 </p>
-<h2 align="center">
+
+#
+
+<h4 align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafaelo&hide_title=true&theme=dark&show_icons=true&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-</h2>
-<h2 align="center">
+</h4>
+<h4 align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafaelo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</h2>
+</h4>
+
+#
 
 <h4 align="right">Cheers!</h4>
 
