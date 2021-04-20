@@ -1,8 +1,8 @@
-<h3 align="center"><a href="https://git.io/pablo">:mate:git.io/pablo</a></h3>
+<h1 align="center"><a href="https://git.io/pablo">:mate: :octocat: git.io/pablo</a></h1>
 
 #
 Hi there 👋 ...
-#
+# :octocat:
 
 <h1 align="center">:octocat: GitHub Stats</h1>
 
