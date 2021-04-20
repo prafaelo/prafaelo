@@ -3,7 +3,7 @@ Hi there 👋 ...
 <p align="center">
  <img width="100px" src="https://user-images.githubusercontent.com/1916331/113941072-566f3180-97b3-11eb-8450-d156bc464ba7.png" align="center" alt="GitHub Stats:" />
  <h2 align="center"># GitHub Stats</h2>
- <h2 align="center"><a href="https://git.io/pablo">:man_technologist:</a></h2>
+ <h3 align="center"><a href="https://git.io/pablo"><:man_technologist: buy me a :coffee: or :mate:/></a></h2>
 </p>
 
 <p align="center">
@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-:coffee: :mate:
