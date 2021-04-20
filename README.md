@@ -4,10 +4,10 @@
 Hi there 👋 ...
 #
 
-<p align="center">
- <img width="100px" src="https://user-images.githubusercontent.com/1916331/113941072-566f3180-97b3-11eb-8450-d156bc464ba7.png" align="center" alt="GitHub Stats:" />
- <h1 align="center"># GitHub Stats</h1>
-</p>
+<p align="center"><h1 align="center">
+ <img width="30px" src="https://user-images.githubusercontent.com/1916331/113941072-566f3180-97b3-11eb-8450-d156bc464ba7.png" align="center" alt="GitHub Stats:" />
+ // GitHub Stats
+</h1></p>
 
 <h4 align="center">
 
