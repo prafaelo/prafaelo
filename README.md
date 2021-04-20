@@ -7,11 +7,21 @@ Hi there 👋 ...
 </p>
 
 <p align="center">
+<h2 align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafaelo&hide_title=true&theme=dark&show_icons=true&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+</h2>
+</p>
+
+<p align="center">
+<h2 align="center">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prafaelo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</h2>
 </p>
 
 
