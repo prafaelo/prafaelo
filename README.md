@@ -9,8 +9,6 @@ Hi there 👋 ...
  <h1 align="center"># GitHub Stats</h1>
 </p>
 
-#
-
 <h4 align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prafaelo&hide_title=true&theme=dark&show_icons=true&hide=prs,contribs&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
