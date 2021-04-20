@@ -1,7 +1,6 @@
-<p align="center">
 <h3 align="center"><a href="https://git.io/pablo">:mate: git.io/pablo :mate:</a></h3>
-</p>
 
+#
 Hi there 👋 ...
 #
 
