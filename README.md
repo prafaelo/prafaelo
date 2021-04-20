@@ -1,6 +1,7 @@
 <p align="center">
 <h2 align="center"><a href="https://git.io/pablo">:mate: git.io/pablo :mate:</a></h2>
 </p>
+
 Hi there 👋 ...
 #
 
@@ -27,6 +28,7 @@ Hi there 👋 ...
 <p align="center">
 <h2 align="center"><a href="https://git.io/pablo">:mate: git.io/pablo :mate:</a></h2>
 </p>
+
 <!--
 **prafaelo/prafaelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
