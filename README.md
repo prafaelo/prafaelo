@@ -14,7 +14,9 @@ Cheers,
 </h4>
 
 #
-Hi there 👋 ...
+Hi there 👋
+
+I am a software engineer with an interest in cyber security.
 # 
 
 <h1 align="center">
